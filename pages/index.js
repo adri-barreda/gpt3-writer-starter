@@ -92,4 +92,3 @@ const callGenerateEndpoint = async () => {
 };
 
 export default Home;
-
